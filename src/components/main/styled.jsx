@@ -26,15 +26,17 @@ export const Head = styled.header`
     align-items: center;
 
     > button {
+        background-color: var(--primary);
         padding: 8px;
         border-radius: 50%;
         outline: 0;
         cursor: pointer;
+
+        &:hover {
+            background-color: var(--houver-dark);
+        }
     }
 
-    &:hover {
-        background-color: var(--hover-dark);
-    }
 
 `
 
