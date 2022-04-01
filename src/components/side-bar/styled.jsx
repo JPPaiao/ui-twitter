@@ -26,7 +26,7 @@ export const SearchBox = styled.div`
     position: fixed;
     top: 0;
     z-index: 2;
-    max-height: 57px;
+    max-height: 65px;
 `
 
 export const SearchInput = styled.input`
@@ -72,7 +72,7 @@ export const Body = styled.div`
     flex-direction: column;
 
     padding: 57px 24px 200px;
-    margin-top: 3px;
+    margin-top: 10px;
 
     > section + section {
         margin-top: 15px;
