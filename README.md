@@ -1,5 +1,5 @@
 # ui-twitter
-Interface do Twitter feita em React
+Interface do Twitter responsivo, feita em React e styled-components
 
 Link do site: https://rococo-gingersnap-fb3851.netlify.app/
 
